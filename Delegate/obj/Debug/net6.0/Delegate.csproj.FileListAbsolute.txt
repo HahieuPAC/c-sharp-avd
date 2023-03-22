@@ -1,0 +1,15 @@
+C:\Users\HIeu\Documents\Study\c-sharp-avd\Delegate\bin\Debug\net6.0\Delegate.exe
+C:\Users\HIeu\Documents\Study\c-sharp-avd\Delegate\bin\Debug\net6.0\Delegate.deps.json
+C:\Users\HIeu\Documents\Study\c-sharp-avd\Delegate\bin\Debug\net6.0\Delegate.runtimeconfig.json
+C:\Users\HIeu\Documents\Study\c-sharp-avd\Delegate\bin\Debug\net6.0\Delegate.dll
+C:\Users\HIeu\Documents\Study\c-sharp-avd\Delegate\bin\Debug\net6.0\Delegate.pdb
+C:\Users\HIeu\Documents\Study\c-sharp-avd\Delegate\obj\Debug\net6.0\Delegate.csproj.AssemblyReference.cache
+C:\Users\HIeu\Documents\Study\c-sharp-avd\Delegate\obj\Debug\net6.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HIeu\Documents\Study\c-sharp-avd\Delegate\obj\Debug\net6.0\Delegate.AssemblyInfoInputs.cache
+C:\Users\HIeu\Documents\Study\c-sharp-avd\Delegate\obj\Debug\net6.0\Delegate.AssemblyInfo.cs
+C:\Users\HIeu\Documents\Study\c-sharp-avd\Delegate\obj\Debug\net6.0\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\HIeu\Documents\Study\c-sharp-avd\Delegate\obj\Debug\net6.0\Delegate.dll
+C:\Users\HIeu\Documents\Study\c-sharp-avd\Delegate\obj\Debug\net6.0\refint\Delegate.dll
+C:\Users\HIeu\Documents\Study\c-sharp-avd\Delegate\obj\Debug\net6.0\Delegate.pdb
+C:\Users\HIeu\Documents\Study\c-sharp-avd\Delegate\obj\Debug\net6.0\Delegate.genruntimeconfig.cache
+C:\Users\HIeu\Documents\Study\c-sharp-avd\Delegate\obj\Debug\net6.0\ref\Delegate.dll
